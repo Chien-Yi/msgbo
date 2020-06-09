@@ -2,7 +2,7 @@
 留言板練習
 PHP+MYSQL+bootstrap排版
 
-首頁
+首頁 
 ![image] (https://github.com/Chien-Yi/msgbo/blob/master/%E9%A6%96%E9%A0%81.PNG) 
  
 登入後畫面 
